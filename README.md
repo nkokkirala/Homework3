@@ -9,13 +9,13 @@ Instructions:
 
 		truffle compile	
 		
-		https://github.com/nkokkirala/Homework3/issues/1#issue-420780542
+	https://github.com/nkokkirala/Homework3/issues/1#issue-420780542
  		
 		truffle develop
-		https://github.com/nkokkirala/Homework3/issues/2#issue-420781305
+	https://github.com/nkokkirala/Homework3/issues/2#issue-420781305
 		
        		migrate --reset
-		https://github.com/nkokkirala/Homework3/issues/3#issue-420781541
+	https://github.com/nkokkirala/Homework3/issues/3#issue-420781541
 		
 5) To deploy the file: use the following command
 	
@@ -24,12 +24,12 @@ Instructions:
 6) 	To get the name of the token: 
 
 		token.getName()
-  https://github.com/nkokkirala/Homework3/issues/4#issue-420782350
+ 	 https://github.com/nkokkirala/Homework3/issues/4#issue-420782350
   
 7) 	To transfer tokens: where address1 and address2 are any two addresses that are visible after deploying the file. 
 
 		token.transferFrom(address1, address2)
-		https://github.com/nkokkirala/Homework3/issues/5#issue-420783998
+	https://github.com/nkokkirala/Homework3/issues/5#issue-420783998
 		
 8) Solution for getTokensLeft():
 		
